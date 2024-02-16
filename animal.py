@@ -2,6 +2,9 @@ import sys
 def default():
     print("Hello")
 
+def cat():
+    print("Hello Cat")
+
 def main():
     default()
 
